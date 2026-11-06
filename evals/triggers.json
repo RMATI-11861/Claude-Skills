@@ -1,0 +1,23 @@
+[
+  { "prompt": "O teste 'total applies a percentage discount' está falhando. Descubra a causa e corrija.", "expect": "debugging" },
+  { "prompt": "Por que isso não funciona? A API devolve erro 500 quando chamo o endpoint de pedidos.", "expect": "debugging" },
+  { "prompt": "Escreva testes para a função addItem cobrindo os casos de borda.", "expect": "writing-tests" },
+  { "prompt": "Implemente cupons de desconto no carrinho: código do cupom, validade e limite de uso por cliente, com testes.", "expect": "building-features" },
+  { "prompt": "Reorganize src/cart.js separando o cálculo de preços da gestão de itens em módulos diferentes, sem mudar o comportamento.", "expect": "refactoring" },
+  { "prompt": "Dei git reset --hard sem querer e perdi meus últimos commits. Como recupero?", "expect": "git-recovery" },
+  { "prompt": "A função subtotal fica lenta com um milhão de itens. Meça e otimize.", "expect": "performance-tuning" },
+  { "prompt": "Crie uma API REST para o carrinho com endpoints de itens e de total.", "expect": "http-apis" },
+  { "prompt": "Crie a migration para adicionar a coluna desconto na tabela pedidos sem downtime.", "expect": "sql-and-migrations" },
+  { "prompt": "Escreva um script PowerShell que faça backup diário da pasta Documentos e agende no Windows.", "expect": "automation-scripts" },
+  { "prompt": "Tenho um CSV de vendas. Qual foi o faturamento por mês e o produto mais vendido?", "expect": "data-analysis" },
+  { "prompt": "Escreva o README deste projeto.", "expect": "repo-docs" },
+  { "prompt": "Atualize o projeto do Node 18 para o Node 22 e as dependências para as versões mais novas.", "expect": "upgrading-dependencies" },
+  { "prompt": "Crie um CLAUDE.md enxuto para este projeto.", "expect": "project-instructions" },
+  { "prompt": "Daqui pra frente economize tokens e seja breve.", "expect": "lean-code" },
+  { "prompt": "Antes de entregar, rode o checklist de código limpo nas minhas mudanças.", "expect": "lean-code" },
+  { "prompt": "Simplifique o código que acabei de mudar.", "expect": "simplify" },
+  { "prompt": "Revise meu diff procurando bugs.", "expect": "code-review" },
+  { "prompt": "Gere uma planilha Excel com os itens do carrinho.", "expect": "xlsx" },
+  { "prompt": "Qual a diferença entre let e const em JavaScript?", "expect": "none" },
+  { "prompt": "Vou parar por hoje, continuamos amanhã.", "expect": "none" }
+]

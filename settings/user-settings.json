@@ -1,0 +1,8 @@
+{
+  "outputStyle": "Concise",
+  "skillOverrides": {
+    "session-handoff": "user-invocable-only",
+    "plan-interview": "user-invocable-only",
+    "pr-feedback": "user-invocable-only"
+  }
+}

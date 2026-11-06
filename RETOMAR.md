@@ -1,0 +1,1 @@
+Para retomar depois: node scripts/bench-tokens.mjs mede a economia de tokens. Continuam com você as decisões de desativar o plugin vercel e de baixar o effort, que são as maiores economias fixas.

@@ -1,0 +1,10 @@
+{
+  "name": "cart-fixture",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Small shopping cart module used by the skill evaluations.",
+  "scripts": {
+    "test": "node --test"
+  }
+}
